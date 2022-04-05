@@ -1,4 +1,11 @@
-# Getting Started with Create React App
+# Arman-Shop
+
+liveSite(https://helpful-elf-25a2a6.netlify.app/).
+
+“*”This is react website
+“*” use react routing
+“*” custom fake data
+“*” Smooth scrolling website
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
