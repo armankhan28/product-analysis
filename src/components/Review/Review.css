@@ -1,0 +1,8 @@
+.review{
+    height: 400px;
+    border: 1px solid lightgray;
+    border-radius: 13px;
+}
+.review img{
+    height: 250px;
+}
